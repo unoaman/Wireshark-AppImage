@@ -1,0 +1,44 @@
+app: Wireshark
+
+ingredients:
+  dist: bullseye
+  sources: 
+    - deb http://deb.debian.org/debian bullseye main contrib non-free
+  packages:
+   - etherpuppet
+   - forensics-extra-gui
+   - horst
+   - libndpi-wireshark
+   - libvirt-wireshark
+   - libwireshark-data
+   - libwireshark-dev
+   - libwireshark14
+   - libwiretap-dev
+   - libwiretap11
+   - libwsutil-dev
+   - libwsutil12
+   - netmate
+   - nsntrace
+   - ostinato
+   - packeth
+   - pcapfix
+   - snmp-mibs-downloader
+   - tcpxtract
+   - termshark
+   - tshark
+   - ulogd2-pcap
+   - wireshark-common
+   - wireshark-dev
+   - wireshark-doc
+   - wireshark-gtk
+   - wireshark-qt
+   - libxcb-xinerama0
+   - libjpeg-turbo62
+   - python3-pyqt5 
+   - python3-pyqt5.qtsvg
+   - python3-pyqt5.qtwebsockets
+   - gnupg2
+
+script:
+  - sudo apt-get install imagemagick -y
+
