@@ -4,8 +4,8 @@
 
 1. Download pkg2appimage tool and make it executable.
    ```shell
-   wget https://github.com/sagarkhandve/Wireshark/releases/download/v3.4.8/Wireshark.AppImage
-   chmod +x Wireshark-3.4.4.AppImage
+   wget https://github.com/sagarkhandve/Wireshark/releases/download/v3.4.4/Wireshark-3.4.4_x86_64.AppImage
+   chmod +x Wireshark-3.4.4_x86_64.AppImage
    ```
 2. Run:
 
