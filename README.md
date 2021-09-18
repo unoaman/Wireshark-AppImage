@@ -10,7 +10,7 @@
 2. Run:
 
    ```shell
-   sudo ./Wireshark-3.4.4.AppImage
+   sudo ./Wireshark-3.4.4_x86_64.AppImage
    ```
 
 A configuration for [pkg2appimage](https://github.com/AppImage/pkg2appimage) to build Wireshark in AppImage form.
