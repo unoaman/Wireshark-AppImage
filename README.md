@@ -1,6 +1,6 @@
 ## Wireshark - AppImage
 
-![pngwing com](https://user-images.githubusercontent.com/90393971/133905505-306e0b2a-e704-4f88-a889-699e19832202.png)
+![pngwing com(1)](https://user-images.githubusercontent.com/90393971/133909561-bc211f9c-3ccc-48b6-aa7a-12123f16badc.png)
 
 1. Download pkg2appimage tool and make it executable.
    ```shell
