@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 ## Wireshark - AppImage
 
 ![pngwing com(1)](https://user-images.githubusercontent.com/90393971/133909561-bc211f9c-3ccc-48b6-aa7a-12123f16badc.png)
